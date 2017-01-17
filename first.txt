@@ -1,2 +1,11 @@
 전부 삭제 
 
+<<<<<<< HEAD
+=======
+——cafelumiere branches——
+123  cafelumiere 의 첫번째 branches
+
+터미널을 사용하여 깃을 쓰기 위한 문구
+>>>>>>> parent of 236511c... revert테스트
+
+
