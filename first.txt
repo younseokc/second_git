@@ -16,3 +16,5 @@ Gggggggg
 
 ——cafelumiere branches——
 123  cafelumiere 의 첫번째 branches
+
+터미널을 사용하여 깃을 쓰기 위한 문구
