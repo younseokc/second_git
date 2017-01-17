@@ -1,11 +1,33 @@
-전부 삭제 
+1111111
+Bbbbbbbb
+<<<<<<< HEAD
+33333333
+44444444
+55555555
+66666666
+=======
+Cccccccc
+Dddddddd
+Eeeeeeee
+Ffffffff
+>>>>>>> parent of 5699764... C를 3으로 E를 5로 변
+Gggggggg
+88888888
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 6b33f13... 전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제
 ——cafelumiere branches——
 123  cafelumiere 의 첫번째 branches
 
 터미널을 사용하여 깃을 쓰기 위한 문구
+<<<<<<< HEAD
 >>>>>>> parent of 236511c... revert테스트
 
 
+=======
+
+git revert 를 확인하기 위함
+>>>>>>> parent of 6b33f13... 전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제전부 삭제
